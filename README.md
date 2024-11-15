@@ -8,3 +8,6 @@ Portfolio 2:
 
 Portfolio 3:
 - https://www.notion.so/Venmo-Integration-Verification-Solution-and-Email-API-Exploration-1180ad723ce180e0b3eacb1c1acee071
+
+Portfolio 4:
+- https://www.notion.so/Tech-Stack-and-Outline-12b0ad723ce1803a80bace7e732cf502
