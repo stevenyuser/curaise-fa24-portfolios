@@ -11,3 +11,6 @@ Portfolio 3:
 
 Portfolio 4:
 - https://www.notion.so/Tech-Stack-and-Outline-12b0ad723ce1803a80bace7e732cf502
+
+Portfolio 5:
+- https://www.notion.so/Tech-Stack-and-Outline-12b0ad723ce1803a80bace7e732cf502 (made updates and changes to the tech stack)
